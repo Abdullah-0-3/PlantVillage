@@ -1,2 +1,4 @@
 # PlantVillage
-Here is a classification for plant village the classification on potato, pepper and tomato. It help to recognize the plant having any disease or it is healthy.
+Here is a classification for plant villages the classification on potato, pepper, and tomato. It helps to recognize whether the plant has any disease or is healthy.
+
+It will help the farmers or agriculture production with the help of this disease classification.
